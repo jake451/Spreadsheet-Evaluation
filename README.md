@@ -13,12 +13,12 @@ Circular references are detected.
 
 **Input Format:**
 - A csv file with m rows and n columns
-- The input file will have no headers
-- Cells will not be surrounded in double quotes
+- The input file will has no headers
+- Cells are not surrounded in double quotes
 
 **Output Format:**
-- A csv file (to stdout is fine) with the same dimensions as the input file
-- Each cell should be output as a floating point value. Round output values to two decimal places.
+- A csv file output.csv with the same dimensions as the input file
+- Each cell is output as a floating point value. Round output values to two decimal places.
 
 **Example:**
 
